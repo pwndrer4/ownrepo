@@ -1,0 +1,1925 @@
+Package: com.arab-cydia.limneosos
+Version: 1.1.2-1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: mobilesubstrate
+Filename: ./downloads/20200726/JEh9CDM00D8jdfhIHOV8FO0Ri60fB1mJ6T80kegw.deb
+Size: 32658
+MD5sum: 79974bfc49b0317ac533be51e07214fc
+SHA1: 4af1aa93d5d6166057bd259c760d58d63393c4e6
+SHA256: b9f5f34d3ad0c39ad324c79106c4c7c048526a947aa090d702ecaa4b29ec6d0e
+Section: Alan中文源:破解
+Author: Alan中文源<2648616832@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/System.png
+Name: limneosos破解小助手
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.flex2areo.disablealerts1
+Version: 2.4.1
+Architecture: iphoneos-arm
+Maintainer: Ai-小苹果
+Installed-Size: 260
+Depends: mobilesubstrate
+Filename: ./downloads/20200726/k3LUpFP7J9Oua0p0bg33bC2jz9CySli1Nhx0SCWT.deb
+Size: 15906
+MD5sum: e13bd082dce0eae681d85e8a898d1e4d
+SHA1: 91ce530a74882ab5f3b318761f8904ac191079a5
+SHA256: fd414a37fd70689ec174dfee8d01f74c8bca88885d70efbfc628b884f03d26ed
+Section: 系统
+Description: 屏蔽系统和应用程序弹窗，强效屏蔽软件和系统弹窗，支持单独选择某个应用。
+A12: 1
+Author: aReo
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Icon2: 12.png
+Name: DisableAlert-全局弹窗屏蔽
+Sponsor: Ai-小苹果
+
+Package: com.pwndrer4.1
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Filename: ./downloads/20200726/3csA5VjnH8E1uDBC2KhZjpHSjqbdf7fIbmqOyzcK.deb
+Size: 14204258
+MD5sum: ee528c12bbde227db14ce404d80abfad
+SHA1: 9d4bf5ee8259621d16b303d8b7b679f5e74491e8
+SHA256: 9bc7085d85aa1d7c1e3382d576e982e6f3225edd8212eacfa326e7c2d8c2ca11
+Section: Alan中文源:应用
+Author: Acreson <342080124@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Acreson-软件(Applications).png
+Name: 大鱼视频「APP」
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.10
+Version: 4.4.1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: firmware (>= 9.0)
+Filename: ./downloads/20200726/EirUlVoYQ6o0JNE7jVNa7gQ37HPJcVJt0OiTE2Ma.deb
+Size: 55814434
+MD5sum: 30bec40d38b664a44534e06c711f72eb
+SHA1: d96ffbfa2f2839edc48f6dc075111abc3a344bd2
+SHA256: c98ed01f3d041aa3e21ac3d8c3d22c1cfbc25cdf270115dd992363c35b361345
+Section: Alan中文源:应用
+Author: Netskao
+Name: 人人视频-破解版
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.100
+Version: 1.4-4
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 567
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
+Filename: ./downloads/20200801/GXI5QdiVeNM87gKl6RVCfPUEux6ZWJ9akMYnIJWU.deb
+Size: 44010
+MD5sum: 0d73d4e294f338eee0d4205c6ff0f2ab
+SHA1: 84f917146161f1479c234f4dcb9803049a652bac
+SHA256: bfa10c1d4ea11cafd5b0061719e424555d22484600cc33999b0ee0ce9f917773
+Section: Alan中文源:插件
+Priority: optional
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Author: CydiaGeek <lucaluca86@aol.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: AdaptiveColorAlerts 渐变弹窗
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.101
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 20416
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Filename: ./downloads/20200801/yxfyVlxy2T9tPUr4dGFKETKnMXNsTSb2TPl2cGbA.deb
+Size: 16234064
+MD5sum: cf36aa4b1c7252e5cf175a6e211fff91
+SHA1: 6459704d273215f3c3d79dd50316f2543c800ce1
+SHA256: ae35f80072306f9cd9d0608bf06e967c8e1fe8d4fb6e487148316a171cc1da5e
+Section: Alan中文源:插件
+Author: Boo
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: AirPort 耳机匹配增强
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.102
+Version: 0.4.3
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./downloads/20200801/Pt4wdvAkGpc9KlwDc1eGUM0d1XThaLeG2Jyo6Ijo.deb
+Size: 5221578
+MD5sum: 9d920de126463e0d8dd985da2bb76fad
+SHA1: 69dc36393bac1fece329e9d965d14d31adf6ea1f
+SHA256: 3edf24d14b4d26be62dd97652b95e7e2b86ecef94473b6a113e2ca180a501531
+Section: Alan中文源:插件
+Priority: optional
+Author: King
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Alipay蚂蚁森林一键收取浇水
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.103
+Version: 3.0~beta15
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: firmware (>=11.0), org.coolstar.tweakinject, com.ex.libsubstitute, pincrush, firmware (>=12.2) | org.swift.libswift (>=5.0)
+Conflicts: winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Replaces: org.coolstar.themelib, anemoneteam.anemone,  com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Provides: org.coolstar.themelib, anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Filename: ./downloads/20200801/NzVni2NR5h6ptilaGot7WvwvNBHrQPyH9eA3LxBU.deb
+Size: 663758
+MD5sum: 5911e8d05a062065b0276f1b53ebe3cf
+SHA1: 97b5f258730c2b1b05444d00db80bab31009201d
+SHA256: 107d5d9855598576c1428c67ed0dcef68f5f36c8c16769d3422e95ecc9699070
+Section: Alan中文源:主题美化
+Author: AnemoneTeam <anemonetheming@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: Anemone 3 主题平台
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.104
+Version: 3.7
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker, preferenceloader, com.spark.libsparkapplist
+Filename: ./downloads/20200801/PGzdQip2ydiFqhJdgPat8DQ6fC8ZxEc5BORJx6Jf.deb
+Size: 997508
+MD5sum: 44ba50aa995fcc5cfc4a8fa9564106c8
+SHA1: 8279f079b60406ec865aa619476348175fcb776f
+SHA256: 25ec05dcf3da622e839ab52e5f006fe74a6d38253706f99a63ca0b2ed07598ee
+Section: Alan中文源:破解
+Author: Soh Satoh
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: AOD 锁屏增强【破解版】
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.105
+Version: 1.6.0
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 1913
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./downloads/20200801/344JpyWigzQKjuWH70CynVSP85VAed4ahSQrF0EP.deb
+Size: 612638
+MD5sum: ee88eb7563651b658893f60ef2954cc6
+SHA1: 999453c26802919011d7fd459f3d5f16df964aff
+SHA256: 82317b034b1b03d3d92f12a17b5493f13d20553e83616b21a49ca97e5b45216e
+Section: Alan中文源:插件
+Author: aReo <minikissbye@foxmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: AppTools 图标工具【破解版】
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.106
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 632
+Depends: mobilesubstrate
+Filename: ./downloads/20200801/ET4WAACmMG4Q7TThsOeJodr2xLdyovMdvAquzBGe.deb
+Size: 187920
+MD5sum: d08d5b1740ea0c6441a44a80f939a75b
+SHA1: 240dba48ff330bc5e7f7dc8421dc1873a10df779
+SHA256: fd8898e3deba934092095233da2174c46705569ba4c3fda6050bfc6feb319d27
+Section: Alan中文源:插件
+Author: DODGraphics
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Assistability12 便捷访问
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.107
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 632
+Depends: mobilesubstrate
+Filename: ./downloads/20200801/uQBy1hL3HbCVUgniCMHYTSlkxom23lqkg5P8v2pW.deb
+Size: 187828
+MD5sum: b1b76515f0aa3ee5e4ed9c1d792a3a85
+SHA1: 54d604782c438add7ac98637dbdb10491403712c
+SHA256: a85c33fbb93fadb5c93d601f8d1e8104df37258f53e149c162132ade9c689ec2
+Section: Alan中文源:插件
+Author: DODGraphics
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Assistability13 便捷访问
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.107
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 596
+Depends: mobilesubstrate
+Filename: ./downloads/20200801/yCpgE7RpajF2jSZ9fSwDRLmC5W1Rhre4teHXmhkV.deb
+Size: 80768
+MD5sum: c47f042dffd1faef4325b2336e5f99de
+SHA1: 063b5d3a2cd9e106c1235c80d913a2c590ac6edb
+SHA256: d32d5e14d13cb0919bc48df1f0f612fadbab7386e2c661ce8e669e9010f4f06e
+Section: Alan中文源:插件
+Author: DODGraphics
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Assistability13 便捷访问
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.11
+Version: 2.1.1.6
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: firmware (>= 9.2)
+Filename: ./downloads/20200726/4LdUmof0ooHxoNlx4pTQWoAj5Mm2xEydJQGFHWkS.deb
+Size: 18121070
+MD5sum: 776349b340ece9950d2859f714bec20a
+SHA1: 4587f99fecddcf89dfe5f72e4be6fb48778f095c
+SHA256: 4082a75a29f46b5a49c7d32a795e62b17823f51f33328da62ce357ec67cf53a1
+Section: Alan中文源:应用
+Author: Netskao
+Icon: file:///Applications/Cydia.app/Sections/Acreson-软件(Applications).png
+Name: Bika CG「APP」
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.110
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./downloads/20200808/k9WG093elHOOvy9lwcZaZHJacg3UsAV6wSz9Migu.deb
+Size: 3254
+MD5sum: 6ca9cd668da49fc9ea19fd39db787302
+SHA1: 76185cce3f46c0c4cc551d5adcbf2c894f0b5902
+SHA256: 68087ed6278ce11b5fd723a88f589c6049ae60f6bddc33a20159ddf40928a53d
+Section: Alan中文源:插件
+Author: iA7myd
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Focos内购破解
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.111
+Version: 2.0.5.3-13
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 8300
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Filename: ./downloads/20200808/LHdRRDn4AccM4lND75UO6JVf6u71P4VLZuxHM2jG.deb
+Size: 2238118
+MD5sum: d0321b2db3522ebb421749aa32135675
+SHA1: a6b6bf0a40e1450bee43788227abd980582180a8
+SHA256: ace2b18b2b86f9d8053d860d2b78316b8bc2466a5938620ee8cb7fb3d4a3de77
+Section: Alan中文源:破解
+Author: niceios
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: NiceBarX破解版
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.112
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 448
+Depends: mobilesubstrate
+Filename: ./downloads/20200808/k1B6TLbtEZhBtp17O9SO58Dzudc1g5CQpUbYHaEL.deb
+Size: 86846
+MD5sum: ffe79294c9d4a4c5deb5bf83ad9d36a2
+SHA1: eace3b3972baa6fdc0a4ca9755935cdcd9bce59f
+SHA256: ed765bbe2c9241ab6f6f1b8e7ef060d3afb8ffb8754e2d6d193b81d22b7ba510
+Section: Alan中文源:破解
+Author: 7Loopy
+Name: 虎牙直播 NoAds
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.113
+Version: 1.0.0.5-4
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Filename: ./downloads/20200808/GH7UalH3Wuu6CoGQoJl6jeaQlBxB0eoqEjsskXpH.deb
+Size: 1394246
+MD5sum: f6349f4530448f64e6cd61e8daac842b
+SHA1: 9f1a4247a447d10da7cb517030691301f50ad109
+SHA256: 91c1fd1ea63b6a05d4ec0a0d3da6e02a337b0d520929ef4b5adae409723e764e
+Section: 插件
+Author: niceios
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: NiceCaller破解版
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.114
+Version: 1.0.0.6-2
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Filename: ./downloads/20200808/spAZJc1FnCIDjESKTnzycfHXceM3IzwxOgJ6j5ek.deb
+Size: 1810760
+MD5sum: 36688912723c772eb670bb907958299b
+SHA1: 1fee3ac00f5c2ae8171d6f99fde5726907a7669b
+SHA256: f80ea9968e72f7b91c20aedd1bc41b1bd956f6519bbe115a14f675bf4d28b389
+Section: Alan中文源:破解
+Author: niceios
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: NicePowerX破解版
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.115
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 332
+Depends: applist
+Filename: ./downloads/20200808/dRCOKUbEtUwWSmvXt5tMiI8ItCUCydzbkFnrZaOt.deb
+Size: 130616
+MD5sum: da8f45de6520d8e4bbe1099add1c2711
+SHA1: 466baeddd17b7d7559cc401aad5e6fd91ff05639
+SHA256: da3d8a5c3d07a77fb078dc4e41bfc1fa406f835ff1efff79135e816b82d78e03
+Section: Alan中文源:插件
+Author: RoyalGraphX
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: BundleID13读取Bundle ID
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.116
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 104
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./downloads/20200808/LC7zcYE7WTiLz44UaQbpFD8foqSNiCY36geiNWPp.deb
+Size: 8628
+MD5sum: a6e67d3a1e0302b201bd96591533201a
+SHA1: 2270430768579449c3d645af80f54896c0454e75
+SHA256: 83fbaeff7f522c52f009c244b519dce4c569522a83de06e323b723f74f60df07
+Section: Alan中文源:插件
+Author: Netskao
+Name: TimeSeconds
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.117
+Version: 1.0
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: Alan中文源<2648616832@qq.com>
+Filename: ./downloads/20200808/TR3WCkrtPv5nCCezdc7E7NEigCYK9mve48Z0YWPE.deb
+Size: 12817270
+MD5sum: b431ca03617e95cf4c338091d7431d05
+SHA1: 75f139f60f1bfb166762618e2af5cc9f7a316859
+SHA256: 780410b511ab24be1614230895b90580288f0c9aa45c608350927788129852e4
+Section: Alan中文源:字体资源
+Priority: standard
+Author: 字由心雨
+Icon: file:///Applications/Cydia.app/Sections/Fonts.png
+Name: UD角ゴスモール80%精致小字体
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.119
+Version: 1.2.6
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 432
+Depends: mobilesubstrate, com.muirey03.libmryipc
+Filename: ./downloads/20200808/5VWGG3EVQoHH284U6Zv8GeStlB3pVhmJw4SN4ydE.deb
+Size: 50578
+MD5sum: b08273129de5fe44324e59c918a23b4a
+SHA1: a9c723e9d6e21d89794fd8a0ee10a4184e3514c7
+SHA256: a407ca2c18bb9e5168047af9f6fe719bbe5f5ba4dda04ce39c9c27d80229ba52
+Section: Alan中文源:插件
+Author: Baw Appie
+Icon: file:///Applications/Cydia.app/Sections/System.png
+Name: A-Bypass越狱屏蔽
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.122
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 372
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>=1.6.7)
+Filename: ./downloads/20200808/ZDauNu3qCjkhzva2CwcrQlzxky0WAhpwxgXA3Jg4.deb
+Size: 75238
+MD5sum: 11bd7c7ace148eea6074b3a903f20e41
+SHA1: 9ce6e6be3770e32cb3b9eff4245381dbdd735ae3
+SHA256: a8bff2c42ebffab97bcc8f76f25c09947ea41f8e23a39d20c0f2146e13a07eb3
+Section: Alan中文源:插件
+Author: Baw Appie
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: A-Shields 面容/指纹加密
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.123
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: firmware (>= 11.0),mobilesubstrate
+Filename: ./downloads/20200808/32otv1JQiCpeufxRcllRjJL9nLsExw6bfiv6GDYl.deb
+Size: 52123928
+MD5sum: e7939a4134a6b29a2452d89ba5515c11
+SHA1: c3c709a33db2efaf6d2b4ace98eb8a281030b32f
+SHA256: 722542b0e84f286a7e7f0579e83c8edabe14ef7c142f9775f83226ad9fa9b575
+Section: Alan中文源:字体资源
+Author: 字由心雨
+Icon: file:///Applications/Cydia.app/Sections/Fonts.png
+Name: Adobe Clean Han中英文100%
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.13
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./downloads/20200726/zvq0BezBEiWS9VOsSedgVBwDuuLvTy0jIvACxDkH.deb
+Size: 4372
+MD5sum: b6881d914e8116b38cbf52ea82db1ca1
+SHA1: 9402c2feac437dedf21a08cb71925615478547fc
+SHA256: 88a0b78f142345ac3cf8ff1d6253e32dee080a63532af46f77e66b1e3652a7cc
+Section: Alan中文源:插件
+Author: 180/小苹果
+Icon: file:///Applications/Cydia.app/Sections/System.png
+Name: AntiRevoke(屏蔽证书)
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.14
+Version: 2.1.3
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: firmware (>= 9.0)
+Filename: ./downloads/20200726/wj1RIFYUmbuda9fkr1EQE58S8ofsxu0EJOQP8YPP.deb
+Size: 14339896
+MD5sum: 19dfc715e8bfac421a67c5741800e37d
+SHA1: 7a1eabf4bebc526c80cece07f8f548edca50de01
+SHA256: 0318cebccd6f4ab7aeb87c755a092dcf68b772747c86ca7283236fb4b88fbcde
+Section: Alan中文源:应用
+Author: Acreson <342080124@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Acreson-软件(Applications).png
+Name: 爱思助手加强版「APP」
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.15
+Version: 2.1.6
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 742
+Filename: ./downloads/20200726/akPAA91q22wD7FLBWmo3KlksRGE2wANW0AYQP3Zz.deb
+Size: 19144280
+MD5sum: cb3361094e99565a2222ff04eade64ff
+SHA1: 3c8584aaa2d00f468604b78eee9ba42fdb0d3060
+SHA256: 09961f694330715ed7aa01f04a594b6833a5953c7f8e1f19006211e69154a2cb
+Section: Alan中文源:应用
+Author: Domo
+Icon: file:///Applications/Cydia.app/Sections/Acreson-软件(Applications).png
+Name: GBA4IOS「模拟器」
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.16
+Version: 5.5.2.5
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: firmware (>= 9.0)
+Filename: ./downloads/20200726/ikeHOeT8PwWgYcnMOeaAybpUAFHeh1wAkaeUpjng.deb
+Size: 35652688
+MD5sum: 2c4cb993b73bca6555da025cf8fbadeb
+SHA1: 72a7bd70d9b4a666c8acb453e63670a0fa348ebb
+SHA256: 7bc4a2cf70dcf786d955693c94aa2912b4254685cb6765b7b6f72590ca1a5fb6
+Section: Alan中文源:应用
+Author: Acreson <342080124@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Acreson-软件(Applications).png
+Name: 海马苹果助手「APP」
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.17
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Filename: ./downloads/20200726/p2bUem6ZpuPim1W9tZ8u2nkZCFg36t3PFhzpZUGU.deb
+Size: 19623152
+MD5sum: 4533cbfbe9928b8a83c0cce0dc083abb
+SHA1: b7f8e9fc92265080f0ccea3f1805f5af0eb70c92
+SHA256: e379a3479eb3c03ce26d192d270893eaee5d00360314633cf0194fac0871b588
+Section: Alan中文源:应用
+Author: 黑鲨
+Icon: file:///Applications/Cydia.app/Sections/Acreson-软件(Applications).png
+Name: 黑鲨视频「APP」
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.18
+Version: 3.3.0
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: firmware (>= 8.0)
+Filename: ./downloads/20200726/rnLvMp6SQECaZh7UD72MhumfyGuMmDR4853B2VOw.deb
+Size: 6693166
+MD5sum: 3e80ee67500848edf089f9ac97bcc3de
+SHA1: 367bf974e9a7c7c10c140600d9d6273dd7abdf8c
+SHA256: 338b24a00860b2e86af7f377ed17274a3125324471eb0e2f652603d881d5b71a
+Section: Alan中文源:应用
+Author: Acreson <342080124@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Acreson-软件(Applications).png
+Name: HyperApp「APP」
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.19
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: firmware (>= 8.0)
+Filename: ./downloads/20200726/eOBi2xK5wuHRxCcWoLChRAsSBUjrmPgko9gEG7MP.deb
+Size: 682254
+MD5sum: 52cc77d0fb6232728ff958773a123ac3
+SHA1: 4e4cda0e377709b912a4c3f276b891774fe9b16a
+SHA256: cb8e09f8c36d3d1e5c2df80fbb87170febfa415701bad981ec9a93e0e2888fb6
+Section: Alan中文源:应用
+Author: Acreson <342080124@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Acreson-软件(Applications).png
+Name: IPA下载器「APP」
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.2
+Version: 1.1.5-9
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./downloads/20200726/nEIeeHFnYIn9V03YGUlVJuQgZjntCVLHlZ0qxk9k.deb
+Size: 16946142
+MD5sum: fc5f9748d202bbfee713326cbb996524
+SHA1: b5fbc25f13c862c42fc2aa33de3ed4ed4b786e1e
+SHA256: 532d56ad07d3c70a9b065c0fa32fbbf0a638da5c878d8c456ccff147d7fb92a9
+Section: Alan中文源:应用
+Author: CokePokes
+Icon: file:///Applications/Cydia.app/Sections/Acreson-软件(Applications).png
+Name: iNutt「APP」
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.20
+Version: 1.3.0
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: firmware (>= 8.0)
+Filename: ./downloads/20200726/KSW0cnkfqsSuhU0qtQrRQ6avbFG9sywtO2AVspIR.deb
+Size: 5655176
+MD5sum: 2ad95674d7eb13e5038518b8df1322f4
+SHA1: 0843a90293b71665f2eb8c4df01acd1d9a9a267e
+SHA256: f989d02cb78276d2fdbac6214c6ff10391e7801659c0872da65c36e599906ea2
+Section: Alan中文源:应用
+Author: Netskao
+Icon: file:///Applications/Cydia.app/Sections/Acreson-软件(Applications).png
+Name: 快读小说「APP」
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.21
+Version: 1.8
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: mobilesubstrate
+Filename: ./downloads/20200726/MRssKHGd3mnZjhLUoQ24SCqvLgQTFRzIKugE8CXr.deb
+Size: 5529368
+MD5sum: 6d941dd805a90c09070c90ce42306192
+SHA1: 42c6cf93b9ed5a1337d286f007513e0b799108eb
+SHA256: 68409c63f395b9cf2e68197a855ea0ad8bb6cf743a538ec8af9f3b64084d389e
+Section: Alan中文源:应用
+Author: lenglengyu
+Icon: file:///Applications/Cydia.app/Sections/Acreson-软件(Applications).png
+Name: 蚂蚁书签「APP」
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.22
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: firmware (>= 8.0)
+Filename: ./downloads/20200726/h8UHEbcla6NJJQYIlxzAGPw5W9IXoJ5XjbmxF6YQ.deb
+Size: 827714
+MD5sum: 012e34f724e574441dd3d2456e80850f
+SHA1: 3eec9e36575555b555092c7bee49f469a9f6079f
+SHA256: aa72f284ae73bbf0bb09314f3a6ae968ae58885985b1978c7934e06adfe845f6
+Section: Alan中文源:应用
+Author: Acreson <342080124@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Acreson-软件(Applications).png
+Name: 钉钉打卡助手「APP」
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.23
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Filename: ./downloads/20200726/7a0eV55PTt2BMwgxLVPYZ8Hu9ZDKEXuThZi00LX0.deb
+Size: 14156674
+MD5sum: fe7e3e7594343edef3f3f55410213380
+SHA1: 1bd513e685b511e17210da8ddd08a19188451ab5
+SHA256: 89474915b162305487e58d857714fabbeb57e0e7f1a65c77d37f3d8c8629a20c
+Section: Alan中文源:应用
+Author: 顶点小说
+Icon: file:///Applications/Cydia.app/Sections/Acreson-软件(Applications).png
+Name: 顶点小说「APP」
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.24
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 660
+Depends: mobilesubstrate, idv.aqua.igg12.speed
+Filename: ./downloads/20200726/mldDg2F4e4Cm2rlhvCwSx0V9ak43ER4WQVqMSvNO.deb
+Size: 122742
+MD5sum: ea5f387cc739fd7230cc346269843521
+SHA1: ce4daaf05b640a758354fe9dc37b8f9f896d9e4e
+SHA256: a868c2e3f8da8bd67ba7f749916bf3a6781eab3dc368980e4c9d187e9860be70
+Section: Alan中文源:破解
+Author: Azozz ALFiras
+Icon: file:///Applications/Cydia.app/Sections/Acreson-游戏(Games).png
+Name: iGameGuardian Cracked「IGG修改器破解版」
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.25
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: ./downloads/20200726/2biM8lAOn6EukGdmlnkRA2f440zTkqZh5pnQ48vv.deb
+Size: 18266
+MD5sum: 92f702d7280a2cfeacc01fadfd3b046d
+SHA1: a5a0765bec6d6ec733580697d65ef9323016f040
+SHA256: 8c47bed23abc53942a2c6b6edaa7c5fe09bdd0ff5c363c93d72e5cdf403304bb
+Section: Alan中文源:网络
+Author: iOS Creatix
+Icon: file:///Applications/Cydia.app/Sections/Acreson-网络(Networking).png
+Name: ConditionalWiFi2「IOS10网络权限」
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.26
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: mobilesubstrate
+Filename: ./downloads/20200726/n0dMKTaqyVDxhgkBHBHH9427ilwF2jwHSX97FwLO.deb
+Size: 12628
+MD5sum: e846f3a7579fe397e52433dc634e9a7e
+SHA1: a4897e0c2d1cdbad5bdf2b1d80100c8e72543e11
+SHA256: ce70cd85a64effceaa4cc2680639d70fafc6c842e5aa5ca2aa4b28e26cef96f6
+Section: Alan中文源:网络
+Author: iOS Creatix
+Icon: file:///Applications/Cydia.app/Sections/Acreson-网络(Networking).png
+Name: ConditionalWiFi3「IOS11网络权限」
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.27
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 128
+Depends: mobilesubstrate
+Filename: ./downloads/20200726/KAukQCP7WsCmm6TuXDeTEJXQyv15WR0QP3kOwkWT.deb
+Size: 12822
+MD5sum: 09bb3c331d1738dcd24100a8ec1da3ed
+SHA1: e7e25a0211060d0e0ccaa8a3a3abc1590af16576
+SHA256: f8b49553b42babf47750a49a28e94e810e2e09afba5720c62bf75a570d0bdd05
+Section: Alan中文源:网络
+Author: ATWiiks
+Icon: file:///Applications/Cydia.app/Sections/Acreson-网络(Networking).png
+Name: ConditionalWiFi4「IOS12网络权限」
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.28
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 128
+Depends: mobilesubstrate
+Filename: ./downloads/20200726/kduq9SqUZGVUEWUkRoHNclzoVIxkVlWVPWlQidfw.deb
+Size: 12818
+MD5sum: c38c2abf323c05a0e3bd2c291951520f
+SHA1: 16e13954b5eba565644e591de0cb4be9295cd5f1
+SHA256: 67926132323b51345679cf54292369237156b07f59dc8979260fd476f43ce1a9
+Section: Alan中文源:网络
+Author: ATWiiks
+Icon: file:///Applications/Cydia.app/Sections/Acreson-网络(Networking).png
+Name: ConditionalWiFi5「IOS13网络权限」
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.3
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: firmware (>= 8.0)
+Filename: ./downloads/20200726/0xQGFSz4REO6WEyrOIAEnM7OUVle1P6AAulX5wcH.deb
+Size: 4063920
+MD5sum: c9732dc000d81f68c1eaa03df4a23649
+SHA1: cdd0102d1d56fda78bdb0863776bf644dafbf314
+SHA256: e040cedee05317acdd8892dfbc8f72fc74ee52a11610d6fd8c0eb811aa811cd7
+Section: Alan中文源:应用
+Author: Acreson
+Icon: file:///Applications/Cydia.app/Sections/Acreson-软件(Applications).png
+Name: 爱美剧(内置破解)「APP」
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.31
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: mobilesubstrate
+Filename: ./downloads/20200726/MegZXZJU8fuOKUgs7tO8OAIfGjjb4BOkx9Gu4o4m.deb
+Size: 10536
+MD5sum: f6ea00041e995055e12fada4a008eda7
+SHA1: e78c77dc55fecb39fd28042343c71378c8d97a0b
+SHA256: d46c6fca5f24d9728289020cbbd065e8c79151b515ba3184a508f451c9e8978b
+Section: Alan中文源:网络
+Author: iBreak <ibreak2019@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Acreson-网络(Networking).png
+Name: Network Exalt「网络框架加速」
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.32
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 8112
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./downloads/20200726/cfUw6KkVnkX6DDnAllgbSrTiFFvourmRmYvOdeDg.deb
+Size: 3363612
+MD5sum: 2d81e840ea24e8f0461a341dd0f94b6c
+SHA1: 78e274d9af7093fce35780ce0951a8814829fe38
+SHA256: fecb59f640d66dd0a0592d46be3849752133190a31f9a647121661687dc54a2d
+Section: Alan中文源:网络
+Tag: purpose::extension, role::enduser, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Tinyapps <tinyapps@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Acreson-网络(Networking).png
+Name: 连个锤子「越狱联网一键修复」
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.33
+Version: 3.5-32
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 7352
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware(>=12.0)
+Conflicts: net.limneos.callrecorder, com.pulandres.limneosos, com.hackyouriphone.limneosos, ru.rejail.limneosos
+Replaces: net.limneos.audiorecorder, net.limneos.audiorecorderx,net.limneos.audiorecorderxs
+Filename: ./downloads/20200726/JaMEeViCMgXvo6oENvqt41aao4RrUP1XuOYwm3fg.deb
+Size: 2684828
+MD5sum: 2fa7cf1038ab533e996918e4b5d884f1
+SHA1: 6653677ae7d2e15acf23f110eb28feece3312696
+SHA256: dd7d31dde69ad14fc886dc579f9b591642ce7f7013e3cf3a56db8da17683007a
+Section: Alan中文源:破解
+Author: Elias Limneos
+Name: AudioRecorder XS 通话录音 破解版
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.34
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./downloads/20200726/4H9MYNssbjf0P0FC0yHzFEY3bHBzofjxq6xbexLB.deb
+Size: 2689514
+MD5sum: 76aa25b06b521660d5d99836dc88b6e0
+SHA1: a08f416e4d1d1b673c48aad16bbbb1b94f16d9bf
+SHA256: bc190c5d7149b00d89ab0410b58412c10a4688100ae70a44e7c8b0585af0c420
+Section: Alan中文源:包管理器
+Author: EvenDev
+Icon: file:///Applications/Cydia.app/Sections/Acreson-安装包(Packages).png
+Name: Lime「包管理器」
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.35
+Version: 1.0-1-1594968628
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools, apt
+Conflicts: com.lakr233.SailyTest, com.lakr233.jw.SailyPackageManager, com.lakr233.jw.SailyStartupDaemon
+Filename: ./downloads/20200726/j6Or9aTyRTAIiXoox4QOVXqruJrAkG3SjfrUuTau.deb
+Size: 27402388
+MD5sum: bc1df242b75a100eabd12ad7437bf819
+SHA1: 480ecff9c3590fc13851743d8135ff7ca375bc43
+SHA256: 608148e068d73862efb7bc9af9cb3343f766b3c5c2b76b8331485964ffefb628
+Section: Alan中文源:包管理器
+Author: Lakr Aream <master@233owo.com>
+Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(Packages).png
+Name: Saily「包管理器」
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.36
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 1044
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, applist
+Filename: ./downloads/20200726/HjLPmGWqOjARgmTnB6Hbv1xvJbZwfMJ8g6UYPnUK.deb
+Size: 198302
+MD5sum: 507a00ee4b86c7947899e4f76807b74b
+SHA1: f70f2482d2fa2552e7398e8b3a66f630076cf183
+SHA256: e2f014cf438446661a36ac87b77d36a5d141df8b0d68bd401483896fc4f217a3
+Section: Alan中文源:网络
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: ichitaso <willfeeltips+ntd@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Acreson-网络(Networking).png
+Name: NetworkDisabler「网络全局控制」
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.37
+Version: 1.2.4.1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Pre-Depends: mobilesubstrate (>= 0.9.5101)
+Depends: firmware (>= 8.0), preferenceloader (>= 2.2.2), firmware (>= 11.0) | network-cmds
+Conflicts: net.tetherme.tetherme
+Replaces: net.tetherme.tetherme
+Filename: ./downloads/20200726/xKnFliATcR3MV1n6qOSmrdz18GCrf5RU77GVaVuG.deb
+Size: 206426
+MD5sum: 05e2d41b8f48245fd2de11caef192db3
+SHA1: cb55f3a69dad8f0f6d501724cbe1c1deda5f9f1f
+SHA256: eabd83c9063414c1ba91df5aa485e6c9455a47eca69b0d83c822886b3a64fa0b
+Section: Alan中文源:网络
+Author: Sam Bingner <support@tetherme.net>
+Icon: file:///Applications/Cydia.app/Sections/Acreson-网络(Networking).png
+Name: TetherMe「热点增强」
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.38
+Version: 3.0.1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Pre-Depends: firmware (>= 9.0), firmware (<= 10.3.4)
+Depends: com.haoerloveyou.ccpatch
+Filename: ./downloads/20200726/dlErdZSBKxZVq6l65FOVT2zY2DHtdWzHjlvZbtB0.deb
+Size: 10764
+MD5sum: 7a970e9d4703d6b3c19ba59621f68c8b
+SHA1: 7577068b23fe2c49c247f99e8d1d45ebc4192332
+SHA256: 0904bf2fe787c6926d35fa3d368367278e0236d46c5aee3e41925e78879cace9
+Section: Alan中文源:网络
+Author: ABCydia <admin@abcydia.com>
+Name: Active 1429 4G iOS9/10
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.39
+Version: 2.9.2
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Pre-Depends: firmware (>= 9.0), firmware (<= 10.3.3)
+Depends: com.haoerloveyou.ccpatch
+Filename: ./downloads/20200726/sniWlMFQedHkdOgmJmSgB9JC5kldsch0AwhPfARV.deb
+Size: 7806
+MD5sum: 141d17eb780a206bda3dd24387420a7c
+SHA1: 825290a94462ade45be9e85807990cbae762c17b
+SHA256: cc3a2a53b9efe262daa7f50bd8ec7a317a2561a4185ebd443e6c3c9e90b4942c
+Section: Alan中文源:网络
+Author: ABCydia <admin@abcydia.com>
+Name: Active 1526/28 4G iOS9/10
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.40
+Version: 4.4-51
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 2060
+Depends: mobilesubstrate, preferenceloader
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos, net.limneosos.bioprotectxs
+Filename: ./downloads/20200726/PhskfWiSF0toGV1IH2fmK5R4KQzVOq8lBdHd3xZs.deb
+Size: 690050
+MD5sum: 6ac2932df3555862e35ca485ff244811
+SHA1: e37652fc8615ea358bf47eb81ea9ec08de440f24
+SHA256: 3406d86072c7c66b92b11601307726a07473b9b51234c41d3396ba0cc5d50b97
+Section: Alan中文源:破解
+Author: Elias Limneos
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
+Name: BioProtect XS 指纹/面容加密[破解版]
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.41
+Version: 0.3-34
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: mobilesubstrate (>= 0.9.5100), firmware (>= 11.0), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap ( >= 1.0.4)
+Filename: ./downloads/20200726/QiRQJWMHlYFwEfW0xs4Fmp3AsIPvC0WkGDVqAFqZ.deb
+Size: 165938
+MD5sum: 82a50d481eb9dd61952ee7192dfb6a38
+SHA1: 2dc948d199bf7026509642f06b8381785ba4248c
+SHA256: eb9f3b34e6c43426e21377a6bb466d35b324aac978c5768c33686c3d66a28f11
+Section: Alan中文源:破解
+Author: Elias Limneos
+Name: CallBar X 状态栏呼叫
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.42
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 219
+Pre-Depends: firmware (>= 8.0), firmware (<= 8.4.1)
+Depends: com.haoerloveyou.ccpatch
+Filename: ./downloads/20200726/qbmW9tUjI6D5Sx8ZeqVGyl0qRNzsY0Cfi20DBU9v.deb
+Size: 15580
+MD5sum: 8e8151ec61e519960684d0ec7dfaff1a
+SHA1: 2808dc7c2aa3738503b75f5f4924708ee6d0ed25
+SHA256: 92d1d28b2c2ef39c34487ed1b64bbbca7339b04cb3c7a94dedcdd53731f31e76
+Section: Alan中文源:网络
+Author: ABCydia <admin@abcydia.com>
+Name: Active 1429 4G iOS8
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.43
+Version: 1.8.3
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 9912
+Depends: firmware (>= 6.0), mobilesubstrate, applist (>= 1.5.14)
+Filename: ./downloads/20200726/nj8FlAUxdtGAkKN0DZ7BFLs3BYdDZqgbl410CnIP.deb
+Size: 2845830
+MD5sum: 5e3b7a23d0eefa8e43b0b1131c02bc10
+SHA1: daa92711861851d2957edfff0b0d9a0498d9114c
+SHA256: ecc0c8048e6d72a05dbc31d76e771c5ede0d4a18f8db3c670ec251cb334edc98
+Section: Alan中文源:破解
+Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Author: liuming
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: App Hider应用隐藏【破解版】
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.45
+Version: 1.0.4-3
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: mobilesubstrate, applist
+Filename: ./downloads/20200726/w1Rr7IUG3s6lthSwYHMkWN7pAvMCxzMqG5mUsdDc.deb
+Size: 34362
+MD5sum: a127e8630004da965464d3204bd75ac3
+SHA1: a124b5b803d31dd610439e42bf569dd32067eac3
+SHA256: 0c850477b33c6ebe8ba0479c62b56096e21eb222ffcbd89812ae50bb4acd6436
+Section: Alan中文源:插件
+Author: lenglengyu
+Icon: file:///Applications/Cydia.app/Sections/一彩-增强(Enhance).png
+Name: VideoAdsSpeed【快速跳过广告】
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.48
+Version: 3.2-143
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 788
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12), net.limneos.simpleactivationactions
+Conflicts: net.limneos.callbarx, com.pulandr3s.audiorecorderxs, com.pulandr3s.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandr3s.bioprotectxs, net.pulandr3s.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandr3s.limneosos, com.repo.xarold.com.limneosos, com.limneosos.callbarxs
+Filename: ./downloads/20200727/qvXXUp4zDkFG8KbUSBB3hYm1qkTnb97vBhPySMby.deb
+Size: 356904
+MD5sum: 60702b313e83d3ee51781db9b923fc09
+SHA1: 7d3400b7c9e16c216462cf0d3361666ec6b5a5e8
+SHA256: 775d119ed00e877ce1b45a14e8f3ad4061c5ad5d6571bef98e7fc2c2da01be0a
+Section: Alan中文源:破解
+Author: Elias Limneos
+Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
+Name: CallBar XS 状态栏呼叫【破解版】
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.49
+Version: 1.0.1-8
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: mobilesubstrate
+Conflicts: com.abcydia.conditionalwifi4
+Filename: ./downloads/20200727/1RSyut8wzhZKFbzq6DC9b9l3lIfVFrbEToXuxOY7.deb
+Size: 694434
+MD5sum: 88c00fcf1f6fbad2a19817b3d1392656
+SHA1: 4214a31e2584dcf2bec0bbaf0e42651785ea0fb4
+SHA256: 77a21282b552447e3d494852ea51f31b41e84046692d1b094f369e5005899f90
+Section: Alan中文源:网络
+Tag: Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: ABCydia <admin@abcydia.com>
+Icon: Icon: file:///Library/PreferenceBundles/NetControl.bundle/abcydia@2x.png
+Name: NetControl 联网控制
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.50
+Version: 3.2-16
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 1664
+Depends: firmware(>= 10.0), mobilesubstrate, net.limneos.libbulletin
+Conflicts: net.limneos.nfcwriter, com.abcydia.nfcwriter, com.pulandr3s.audiorecorderxs, com.pulandr3s.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandr3s.bioprotectxs, net.pulandr3s.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandr3s.limneosos, com.repo.xarold.com.limneosos
+Filename: ./downloads/20200727/aBYbiXlfFjlBqA6ciUrBAL66syD0E62qI5LgQGUJ.deb
+Size: 918446
+MD5sum: 1da5d0858928e0611af3973cd0722c7c
+SHA1: 09fce88e6dd8db46edd848ace7d0ac2a7104db87
+SHA256: d44e36743da9a8daf5cb01122fc70473ba7975f09f119e6de49abdad659694eb
+Section: Alan中文源:破解
+Author: Elias Limneos
+Icon: file:///Applcations/NFCWriter.app/icon@2x.png
+Name: NFCWriter XS 激活原生NFC
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.51
+Version: 3.6.4
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 10817
+Depends: firmware (>= 6.0), mobilesubstrate, applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, app.weiphone.tinyapps.location360pro, cn.tinyapps.XGPSLite, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.XGPSPro, apt.tinyapps.location360pro, me.liuming.LocationHelper, me.liuming.LocationExpert, net.85819.ios.otrlocation, com.abcydia.otrlocation
+Filename: ./downloads/20200727/Tc75OJOrwft6HLneGPyEQltTspVfM5Y5YQMGTHTa.deb
+Size: 3034614
+MD5sum: 8e8527fd521f182b8bf4ad3a3cf137a5
+SHA1: 35002ca751e194b82d2cc7c611670cf0aa678a9a
+SHA256: 21a599cb7a7c80f21753bf13dec4448da981c6e01631054c6b579065e7892a69
+Section: Alan中文源:破解
+Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Author: suifeng
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: FakeGPS定位修改大师
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.52
+Version: 1.5.2
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 10412
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./downloads/20200727/DalwjMuZeoZjCVoMOk3UZYlBHRn8jSDhGORHH5ef.deb
+Size: 3486290
+MD5sum: 7c2535ecc131f0087b7aa577b8bb1877
+SHA1: 410bf0d737a1434b0964fd002f8fccb107767c60
+SHA256: 33b7cf467a2085fe09d21a9dcb58ba857aec7a94bdc2cb57ec123a7cda6bcbf7
+Section: Alan中文源:破解
+Author: Joe Bruce
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: FakePicture拍照替换【破解版】
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.53
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Filename: ./downloads/20200727/7fA86wNkrBFHFPw8gR0P5vWUQVwNf4zURMwjf6cJ.deb
+Size: 11628
+MD5sum: 879f847b1ddea41f366c2c2a20e04196
+SHA1: 341628ae10e4e072dea39c01ded3c42893cb5253
+SHA256: f39973e7e0a76d3153f18d087b9f3e302855c67a214e0270daf45af37822aa8f
+Section: Alan中文源:破解
+Author: Cunstuck <repo@hackyouriphone.org>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: FakeStep【破解版】
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.54
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Pre-Depends: firmware (>=8.0)
+Depends: mobilesubstrate, net.limneos.libbulletin
+Filename: ./downloads/20200727/6JvB48dvlutf4tpyTktKuueUmRwIYPRoWfyEZ5Xe.deb
+Size: 420170
+MD5sum: c6ea4957492deb053d9e9efbe460879a
+SHA1: de386a9ec36c40443b15c98a0c7228565c590b6f
+SHA256: 0684c09a658f248a6e02874c3db76dc270f1ebf04a2eb6a0b6c980ada8fdd4d3
+Section: Alan中文源:插件
+Author: IArrays <support@iarrays.com>
+Icon: file:///Applications/Cydia.app/Sections/一彩-系统(System).png
+Name: TSS Saver【修改版】
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.55
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 404
+Depends: mobilesubstrate
+Filename: ./downloads/20200727/uGOnYYn26JqX7JFcN24MhLarR2vVNAsG8q3D9h4P.deb
+Size: 73952
+MD5sum: d2c63ecb146e52c2b946d3351814afc9
+SHA1: 969de03ef528197d592347a573ac672eff393036
+SHA256: 33a632138741c1e5f09d3922b44a27579359def44dff68e519d23bc483ad04b0
+Section: Alan中文源:插件
+Author: iBreak
+Icon: file:///Applications/Cydia.app/Sections/Acreson-增强(Enhance).png
+Name: Thunder Helper【迅雷助手】
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.56
+Version: 20180717.01x13
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: firmware (>= 6.0), mobilesubstrate, PreferenceLoader (>=2.2.3), unzip, com.rpetrich.rocketbootstrap (>=1.0.3)
+Filename: ./downloads/20200727/EJT6JYIUIHnRypu4g56vSzGVfZSEcPsu8RdCCPLP.deb
+Size: 148158
+MD5sum: 4535b9ad496b98cb665a886b0b69bf4f
+SHA1: 070a5b6b25d1a730860009df6bdfad0588b83322
+SHA256: a9e039dfa3dec0ebd1412a993c16db43d3e9f210eaa9f572b029f3e765d1f22d
+Section: Alan中文源:插件
+Author: 5kbps
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: 5kbps用户中心
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.57
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 250
+Depends: mobilesubstrate, firmware (>= 5.0), preferenceloader
+Filename: ./downloads/20200727/qe1jxWnoyVcP7PZ7LFh6dOrtRfv8v99rQ9O0W9T3.deb
+Size: 44980
+MD5sum: 965593ae8aada963b6804cb354fe69c6
+SHA1: 284bf844d525b5d8db1dc2281c0bfc3699a2a90b
+SHA256: ff535c535dbb0d08f652e87d97daca7e94133a46a6c8b0d5cf5a2eb04315fc22
+Section: Alan中文源:插件
+Author: cjack
+Icon: file:///Applications/Cydia.app/Sections/Acreson-增强(Enhance).png
+Name: TikTok【助手】
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.58
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./downloads/20200727/OkWAlIBSkFKUvwduqZg87eUsmYZxeMIB7PEVcyyA.deb
+Size: 27756
+MD5sum: 708731ac484c32bf5b4a6fe87374ecc2
+SHA1: 581ab38ef1f1ede60e8917e71f544eeef965d2ea
+SHA256: fbdda9508f1ffac4a910c961d29088d4b93f7c6ecf0937d190a15abda5296d4e
+Section: Alan中文源:破解
+Priority: optional
+Author: Acreson
+Icon: file:///Applications/Cydia.app/Sections/Acreson-增强(Enhance).png
+Name: QQ Music【破解】
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.59
+Version: 2.0.1z
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: ./downloads/20200727/VeesBHXGwAgagZ1xVNWNInlJgW66uBBne59Dz2KS.deb
+Size: 7725702
+MD5sum: 7fa25b555e9f1745a7fe5c7f2c0fbf9e
+SHA1: b5315b0cd911840596238e6fc459a37f3a694e6b
+SHA256: 521d05c23cd181b86ab78805478652c925b8f31a0bee6fb687e1c068ebc8b03e
+Section: Alan中文源:插件
+Priority: optional
+Author: QQ<970360361>
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: 361一键新机(MultiAccount Master)全系统(iOS7-13)一键改串
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.6
+Version: 2.1.7
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: firmware (>= 8.0)
+Filename: ./downloads/20200726/KZzCk50uFGKhrZpvOYSkuW7HEppKJ70t5mqfV0Vd.deb
+Size: 13409220
+MD5sum: a08335fef6d3bb0cf60649440cee6a63
+SHA1: 0210380bf56581aed442881dd9a96e898521e685
+SHA256: dc4e67aec2697d00ebef913b71795bcc51d826da054433546b0d362fe3e6023e
+Section: Alan中文源:应用
+Author: Acreson <342080124@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Acreson-软件(Applications).png
+Name: 爱思助手极速版「APP」
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.60
+Version: 0.9~beta3
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 296
+Depends: mobilesubstrate
+Filename: ./downloads/20200727/iIgNXaHpnli3mx9jZUJ27GCxdk1SbxTLjy8sdBqT.deb
+Size: 8708
+MD5sum: 31a3d027678f7a5616a08852ed538cdc
+SHA1: fc9207320181684bf08b5156e5db402a58746300
+SHA256: 6e38235d90ad5da213adb502bb225d32367f2b9452c43b0804f9c38b91af41c7
+Section: Alan中文源:插件
+Author: Deon
+Icon: file:///Applications/Cydia.app/Sections/一彩-增强(Enhance).png
+Name: Respring Helper【注销工具】
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.61
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 688
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0),com.bingner.plutil
+Filename: ./downloads/20200727/XamKzuIAcG4o60Ms2GvOozjQnPcqHCP6lDHi5rgQ.deb
+Size: 179900
+MD5sum: 251c41da5a270f9c978877466a8c1db5
+SHA1: 14fc556ed8bcaa57cd09d4d8bcc49eae37dc5bbc
+SHA256: 7f2426a38983158e5de5275a5531d9b3687cc148793412d6d59ce39f9b6acbd5
+Section: Alan中文源:插件
+Tag: compatible_min::ios13.0
+Author: tcbrooks <thesaltcracka@gmail.com>
+Icon: https://chariz.com/cdn/icon/titan/icon@3x.png
+Name: Titan
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.62
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: mobilesubstrate, preferenceloader
+Filename: ./downloads/20200727/sRaYZ8lnHftFRwIgOPOCAgikthVWHkdcrcLVnu2n.deb
+Size: 73440
+MD5sum: 8ceccdf7c2413d4464a981c4dd2e9aa8
+SHA1: 9d740f4636f114d93d429c8d067ddc4c7d7f6745
+SHA256: 8adaad8c2a7b876ccaae87d5666a5daeb036394b0b12556b29e6a1d14fdf0d0d
+Section: Alan中文源:微信专区
+Author: iBreak
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: WeChat Helper【小姐姐的老版本】
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.63
+Version: 2.2.1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 5105
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: ./downloads/20200727/D5xIMUuHq2JLLoDQpuwvReTLbjr3PBdJE4e1eHoz.deb
+Size: 2078296
+MD5sum: 1f51d1d6b1a6b73f8d5ab90cfe7830a0
+SHA1: 4ee7c0c75192b2c6347136abeee073e610d262ee
+SHA256: d3ff63c0997b6eeb248b89b6fc1ebc88902a304a9cb648ce366d6e066a67fec3
+Section: Alan中文源:微信专区
+Author: FantasticSkyBaby <lazysloths@yahoo.com>
+Icon: file:///Applications/Cydia.app/Sections/一彩-增强(Enhance).png
+Name: WeChatAssistant【微信多功能小助手】
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.64
+Version: 0.1-4
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 136
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./downloads/20200727/5V3uUlyxAMV8P0TgtQ4f5LMPCdR2noSmkOXSfCO9.deb
+Size: 2622
+MD5sum: 2ec75e4017c8f4b9348f67c598316b7c
+SHA1: 90145459284fa97841cb31b4d4a6a0fba2477d31
+SHA256: 3569382657015f91f21b45c84d5a2204962f7ddce8bf204abb96aee381040e2c
+Section: Alan中文源:微信专区
+Author: Halo_Michael <yc992147156@me.com>
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: WeChatJailbreakHook【关闭微信检测】
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.65
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 180
+Depends: mobilesubstrate
+Filename: ./downloads/20200727/gbPuokTBKo8QJTVq41ewmcsB1z3NbMHDOQwt3HK5.deb
+Size: 42768
+MD5sum: 094f145fc72a6a5127ca3500bf1c8b3b
+SHA1: b7c1d6f9f8d1569fd4843ab5003e6255217b0266
+SHA256: 0376d6dbc154a01bccae60f4445153aa85ef01be34bc158e345639ae12b40ed4
+Section: Alan中文源:微信专区
+Author: 7Loopy
+Icon: file:///Applications/Cydia.app/Sections/一彩-增强(Enhance).png
+Name: WeChat【朋友圈表情评论】
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.66
+Version: 2.0.0-36
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: mobilesubstrate
+Filename: ./downloads/20200727/xfyIOjFU3EYpXtz0qxzyreww4UgApcXjL01hc4zS.deb
+Size: 67996
+MD5sum: 00ef94035efb1824fdf87a7918f8afde
+SHA1: 73b2db6d47cd084c8406657b0c625631c9354f61
+SHA256: f7bfcfac1ad2023e6d34ef41e4da187836e4842f3e79870d0e15f32457be29a8
+Section: Alan中文源:微信专区
+Author: Loveletter
+Icon: file:///Applications/Cydia.app/Sections/一彩-增强(Enhance).png
+Name: WeChatPlugin【微信小助手】
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.67
+Version: 6.7.0
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 2212
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./downloads/20200727/vdb1UZpxk34pQYetD5mPj4Y2bfPvBiMbH0F8I0Lb.deb
+Size: 1552946
+MD5sum: 46acb1234163e952e8df4d9b3224a823
+SHA1: d5347d10ba74c8f1f639574f6a563c6134653200
+SHA256: 18294558c94955e032aebfd76bef33fc67cc00fb650060eb0f0c6ccfaea63256
+Section: Alan中文源:微信专区
+Tag: purpose::tweak, role::enduser, compatible::ios9, compatible::ios10
+Author: wzqcongcong <wzq.goku@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/一彩-增强(Enhance).png
+Name: 微信自动抢红包插件【后台锁屏秒】
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.68
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 212
+Depends: mobilesubstrate
+Filename: ./downloads/20200727/40iiQx9qpAaMGAYbbD3j18J6pek6vrnR2DqSD49A.deb
+Size: 44518
+MD5sum: 85b012f991c83008fe357f063f7a3ee6
+SHA1: fbf643bdb65627af5af1e3368c0d93fe0620a412
+SHA256: ba8e411f4732b47f48cb5680c32228fe94e63bbb4dc5d261c6a947dd4a1cac87
+Section: Alan中文源:微信专区
+Author: 7Loopy
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: WeChatNullInfo【微信性别空白】
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.69
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: firmware (>= 7.0), mobilesubstrate
+Filename: ./downloads/20200727/pjnnz1TN91d9ar9AAp99oG9wSQFheagM507s7Xbt.deb
+Size: 54964
+MD5sum: 4a77f664688ab669b9710290da31cbd1
+SHA1: 099cefe55887cc31021f6760941661057e746a72
+SHA256: 70719ee220f882f3c898decdfe5a10185d938a2e26feb7cb4fb6d8fc315e69f3
+Section: Alan中文源:微信专区
+Author: Zhichao Yang <wordbeyondyoung@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/一彩-增强(Enhance).png
+Name: WeChat【自动抢红包插件new】
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.7
+Version: 7.1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: firmware (>= 8.0)
+Filename: ./downloads/20200726/HcumRFbddG0B99yXWaPT6rtIJauhLL1cZ1zkaCvs.deb
+Size: 10605330
+MD5sum: 7f17e695c6c67ffe06c248b85adcff55
+SHA1: 4e27478a1c7d1ac1cfd64f2c67d0d427dc90cb30
+SHA256: d9d4780cb44f700850d8aadbd947eac90ee8d648856f99f0381b23ec1e3fef93
+Section: Alan中文源:应用
+Author: Acreson <342080124@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Acreson-软件(Applications).png
+Name: AdBlocker Pro「APP」
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.71
+Version: 3.1-41
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 1211
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11)
+Conflicts: net.limneos.bioprotect
+Filename: ./downloads/20200727/jC2xQ6IsaW8NzL1yh9GDhzKssZRc30wLrnAD2UIB.deb
+Size: 466200
+MD5sum: 0e82b0b35bef2c1d7ce07beeff84b59a
+SHA1: b0ca34754fc5091aa3bc25f7d1c4bb02f30efd6a
+SHA256: b74ebbb719b87e36e3c375cd7ebe4d521ed303e3a7b9df4a527cbef4ef1c2e61
+Section: Alan中文源:破解
+Tag: purpose::extension, compatible::ios11
+Author: Elias Limneos <limneoselias@gmail.com>
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
+Name: BioProtect X【破解版】
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.72
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 180
+Depends: mobilesubstrate
+Filename: ./downloads/20200727/ALyWbEBGlmwNypYCKX7qt3TBtBDJjhPNnjXjFLTk.deb
+Size: 21062
+MD5sum: 762ca641f2e75ce99c79e8167ab73d0a
+SHA1: 3842043248017a6ef5ac2ec25523ec3084ea543e
+SHA256: e03e184412e2e56c770e354ae1928df776efb8f15e7475c1eb23de9be6ad8418
+Section: Alan中文源:破解
+Author: 7Loopy
+Name: AdGuard Crack
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.74
+Version: 1.5.3-2k
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 9244
+Conflicts: com.tigisoftware.appdatamanager
+Filename: ./downloads/20200727/XPPPjvWPzyM8XYgq22ICL0YSs4xCWn5Q6YThWwUX.deb
+Size: 1918420
+MD5sum: 6111f1d94444b6a9b17ae752082c1241
+SHA1: 9d6f6a4720c7b40b62a59028156d1fab5dd18572
+SHA256: 76544c601ee354c2387afeb65a0535aad00e96908896d65c2383b86353a9c06d
+Section: Alan中文源:应用
+Author: TIGI Software
+Name: Apps Manager
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.75
+Version: 1.2-2
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 232
+Depends: mobilesubstrate
+Conflicts: netskao.aiqiyinoads
+Filename: ./downloads/20200727/KuAHRNSyCwgJwuEOFYixFrnnowPTnt2R4D5JtNU6.deb
+Size: 51340
+MD5sum: 8764c8ef001f17c52b13bf2ff97cec1c
+SHA1: a660d297e5ae69b1a77f29137de2712f122db81d
+SHA256: 89b39524578f46f2dca8d6dc0619efe5391110a348b29b49c09a1aec6d7c93ae
+Section: Alan中文源:破解
+Author: 7Loopy
+Name: 爱奇艺 NoAds
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.76
+Version: 1.5-3
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 496
+Depends: mobilesubstrate
+Filename: ./downloads/20200727/dB0hqbmR9tW625cDKOOHUOLmRTJ8syqdWZVE1Zd2.deb
+Size: 96644
+MD5sum: 85107da8680f39feedcbeb583aa217fb
+SHA1: d3d3cd47fef64e136419532e600d1a1b0d5e24b2
+SHA256: 06bcddf84e5536cdfb8e12f069f99509c58282d7f123683517e5ae3eae1687d0
+Section: Alan中文源:插件
+Author: Netskao
+Name: 抖音 净化
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.77
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 480
+Depends: mobilesubstrate
+Filename: ./downloads/20200727/8SnIDWX3G5TsJMULjdyElBXtfItaLvY26E08M1nh.deb
+Size: 94834
+MD5sum: e905ebce6b21d9e769c5f49e9d752958
+SHA1: 1358c6339f8513c2c064be18d977750dd222083b
+SHA256: d06fc8b738f92fa130d535c8ca3b93b392fab9cb6a13e0adf3186da702fb1ba9
+Section: Alan中文源:插件
+Author: Netskao
+Name: 百度贴吧 净化
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.78
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./downloads/20200727/E16LJ9K9g7XVC1wCrjyM5ZOtEvnrO09za3tRCUWx.deb
+Size: 16992
+MD5sum: e56087472de29157a2a01448f310c7ea
+SHA1: 0065d878126bd70bd9435d6fe4504ea12b4f6f49
+SHA256: 6cf1eb91e1dcff0e473a9ba8fab338d851d97d3cee663fa0987a1f51e1ac2f63
+Section: Alan中文源:破解
+Author: 7Loopy
+Name: 百度网盘 Crack
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.79
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 688
+Depends: mobilesubstrate
+Filename: ./downloads/20200727/mOuCKM01nVXv7u1bxN1RKCuqvxjP6jYfbU6NRyv0.deb
+Size: 130840
+MD5sum: 2b4dbf9794bd1badae4aba053f03a0c9
+SHA1: e8135d2cf7c019a0cd696b84e2fa7c5f304d238f
+SHA256: 2bae1e86fd225212b317b32b34408ec5134751ea374aeecf3ad9809f0d8e198e
+Section: Alan中文源:插件
+Author: Netskao
+Name: BatteryNoYellow
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.80
+Version: 2.1.2.1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: firmware (>= 9.2)
+Filename: ./downloads/20200727/45r5VdxBAm2Hp97LxR1hpcPaIuPlRKAlTgLEL9mY.deb
+Size: 18674412
+MD5sum: feb694f87072fdd9dfd180a925c74ab4
+SHA1: 7363fc3325db7336dc57070d7529e16bed4f267d
+SHA256: 0316a5e53d4fe1413a066fba9f2799df37ea7d3097a1ee36b08ee1e921de6eb7
+Section: Alan中文源:应用
+Author: Netskao
+Name: 哔卡CG-去广告版
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.81
+Version: 2.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: firmware (>= 9.0)
+Filename: ./downloads/20200727/oufisHzoMRX0DSE8D387S5ZhKykJ7hJg9tbI0s3G.deb
+Size: 210598
+MD5sum: 84e106c42b9ad984dc4a7af755f78583
+SHA1: 1afbf3d456123d9196925d640b17eed8c17391be
+SHA256: fed0618ec4c3ebbb34d41300454bc1f3371eb3ff761e1a81116a1344bdc55a64
+Section: Alan中文源:应用
+Author: Domo
+Name: CocoaTop 64-bit
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.82
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 232
+Depends: mobilesubstrate
+Filename: ./downloads/20200727/mQmw4ahs1Hn7gxxCpPPylxx9SYCEuRKrFHbfnITt.deb
+Size: 50544
+MD5sum: ebba407c96483c8f7706e6a46f88ade9
+SHA1: 04a7540a9566ae2292298e8fad2b5a5bc41474e6
+SHA256: 5deed203d7127b34664d8a712dfcee9af529a14d09aa153b6a8d3314887e40f8
+Section: Alan中文源:破解
+Author: 7Loopy
+Name: CPU Dasher Crack
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.83
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 232
+Depends: mobilesubstrate
+Filename: ./downloads/20200727/Poy0f8FCCHybyMXJycmlI2seKxklybPisgRsvYls.deb
+Size: 50628
+MD5sum: 5371d9ba6911b717371d3474e561622c
+SHA1: 9fe7e3425fb4dabb85c6e06c6f69d2d849436616
+SHA256: c54ad80cae2ab07067d76a1f871bb486f838bc8315206951567a45f5f8317fd6
+Section: Alan中文源:破解
+Author: 7Loopy
+Name: CPU-x Crack
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.84
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: firmware (>= 9.0)
+Filename: ./downloads/20200727/oiKuEAsqyp0QSSjc3bhK5vXnGKVv0JyJAQfIqx41.deb
+Size: 7168674
+MD5sum: 0a27b3a57cbe52d1ca294a7906898181
+SHA1: 61d4490b80b8fa23b8843e9cec77f936a801ed1e
+SHA256: 5c1e9f0b24657bf8e2b9916ee758b37962ed9963a9be353aac56ede7dd6edfce
+Section: Alan中文源:应用
+Author: Netskao
+Name: 冬瓜影视-破解版
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.85
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 232
+Depends: mobilesubstrate
+Filename: ./downloads/20200727/ye7nmPB3svLHvtjVlDPidII41oBlcqfzhi4X66fJ.deb
+Size: 50644
+MD5sum: e1242c79d457cb70b0756ed2bc921361
+SHA1: 4d9bddcfaf0f2352b5f8d631c9e8bbf710043202
+SHA256: e58a32907b2ff40bf38b7a80e37da0880e379e928b5d886c94f9681533d2e424
+Section: Alan中文源:破解
+Author: 7Loopy
+Name: 堆糖 Crack
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.86
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 232
+Depends: mobilesubstrate
+Filename: ./downloads/20200727/oUCTHn239adWEQ9pboUihXVcfTJSlwhUvfdDG28G.deb
+Size: 51078
+MD5sum: 5445a8da8ec9ea2bd2817c595849bda3
+SHA1: d11959da4e6ca5e060a1107a24143996d90e4bbf
+SHA256: 7ad6cf7f700165e106e63a4714c943e83cad164574ae04c009b0f2d2a86d11fd
+Section: Alan中文源:破解
+Author: 7Loopy
+Name: 番茄小说 Crack
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.87
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 580
+Depends: mobilesubstrate
+Filename: ./downloads/20200727/RrwvPOcZPFpLXByteGe9n63xp06B25o47l0d3Oqs.deb
+Size: 112252
+MD5sum: 2b166ef4b8934d20165001a1146f132c
+SHA1: 9c9d4416fb0e61ada0fdc842a5023000e17c665f
+SHA256: a93d83457137530057673813ccb2bc0b0a5b5e2839f0bc8c3fbf87d04f228245
+Section: Alan中文源:破解
+Author: 7Loopy
+Name: Filmr Crack
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.88
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 232
+Depends: mobilesubstrate
+Filename: ./downloads/20200727/JqYpigVB5oKdq13vHKF7zDXXLF3KgNsUIfYRUrAy.deb
+Size: 50676
+MD5sum: 5a1563a599055db1e500205f196d6388
+SHA1: 00adf9a7e9b2ff122b1d36112e4e64a1a91941e6
+SHA256: 51919b697b2144d1f0cd44a236b487926e95a71193bf7626d9985654c82ba7f9
+Section: Alan中文源:破解
+Author: 7Loopy
+Name: 格式工厂 Crack
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.89
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: network-cmds
+Filename: ./downloads/20200727/Lc0eDpqd4xmWmgvD7ulzuYXfpojz69WlGseBMKCy.deb
+Size: 6562444
+MD5sum: 5a3c074f2f6d8968356535cd83b01698
+SHA1: 00ccaa8fa0f575de7048ae870db47c6ac5946f27
+SHA256: d7e29ef78260590ef86d726ceeb718e2a794ea3503900dba44af46170cdfcd8a
+Section: Alan中文源:应用
+Author: midnightchips
+Name: Harpy
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.90
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: firmware (>= 10.0)
+Filename: ./downloads/20200727/xYumAiusxHgRcAu4kmLlurxDhrUkOEs6YurQV60E.deb
+Size: 16114222
+MD5sum: 47e5090df824127a5def14d806802e5c
+SHA1: 3ea4f87babf3497a7ce2d3149245ef5eb5c77490
+SHA256: e36e15551f140a228bbff37ff7bfef24e31d108f5d5645f11f9ee91a1a8b75e9
+Section: Alan中文源:应用
+Author: Netskao
+Name: 花椒视频-破解版
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.91
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 464
+Depends: mobilesubstrate
+Filename: ./downloads/20200727/LX57YmY168KgCoq9RNGS1XpfdUlG4gZw1TYE354K.deb
+Size: 89766
+MD5sum: 3dc5070653e399c65cca2c22b248ff81
+SHA1: 3f6226938248c24e96b165116a0bed7a018814d3
+SHA256: 5b3942e37288c4fada9d86fc09a6c1414833bb389523f0b8654df03ea247f88c
+Section: Alan中文源:插件
+Author: Netskao
+Name: 好看视频 净化
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.92
+Version: 1.2-3
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 464
+Depends: mobilesubstrate
+Filename: ./downloads/20200727/mjfY3GI2aS9VYG6p6Vg1LhfkZEsMElPDkiacqFkR.deb
+Size: 90420
+MD5sum: 2821ed0fb0dfa03c2d4a706ab5e5fe0d
+SHA1: bff83f60f031160198c8123b50cca461d4cd63e6
+SHA256: 912a4af82dd1ac4c19975d0e14c624a0a54da7edac46859a2639792af91fa7d2
+Section: Alan中文源:插件
+Author: Netskao
+Name: Instagram 净化
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.93
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: firmware (>= 10.0)
+Filename: ./downloads/20200727/eDgF9H3Be4l5VnoiLyrwEw5inNrAlAScewU1oHaD.deb
+Size: 16961398
+MD5sum: 93cbbddfee802eaf388340d2bbe16f89
+SHA1: 4f6b870ea65a9c262a249ec2c81e45ff2db2a0cc
+SHA256: b4c6a4d234eaf4f28450890196bacd92a57d3f73021ab9e10f8b5ffb743c4ce6
+Section: Alan中文源:应用
+Author: Netskao
+Name: 南瓜影视-去广告版
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.94
+Version: 1.0.13
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: firmware (>= 10.0)
+Filename: ./downloads/20200727/yzc4kbFr3FXbnmvFPmu04qiSgAIhsAksCHWYDpXa.deb
+Size: 7011782
+MD5sum: 98c2f1373c971648c932818661d74140
+SHA1: 1c97f221c9305c821c12ca251e5afe4dda22e936
+SHA256: e9b36e61a00e1d7c517f3f328ed334efe8623a2c2fefd6bc58268fcb8d1ca705
+Section: Alan中文源:应用
+Author: Netskao
+Name: U5影视-破解版
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.95
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: firmware (>= 9.0)
+Conflicts: netskao.dbysappnoads
+Filename: ./downloads/20200727/9JQ3x3M5wUNCuJw0s9Iu6pXn0QI48hkN5D96IXD9.deb
+Size: 19118134
+MD5sum: 6be26b4d6392108d8775ddc2881300cf
+SHA1: 31570a2cf658c387c2c483f9e878dadf70fd6737
+SHA256: 563dae98479926f143bf532195aa22d26239cec3368be3bf70471d30212ab85b
+Section: Alan中文源:应用
+Author: Netskao
+Name: 小蜜影视-去广告版
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.96
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 724
+Depends: mobilesubstrate
+Filename: ./downloads/20200727/DBmXyIVf2PtlKMEACDzZtNn9trDUUDMaVk079IXu.deb
+Size: 724346
+MD5sum: caa9862c2844e22e93f05dac516dbf98
+SHA1: f0b061881306d540a9e29920e7f138b1e1621df3
+SHA256: 2ce219c1c4e8b2587e1a54f9c301dddfdce14ecae41b26ef4586652413d48548
+Section: Alan中文源:插件
+Author: Netskao
+Name: 丰收互联 Disable Jailbreak Detection
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.97
+Version: 5.9.10
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Pre-Depends: firmware (>= 4.0)
+Depends: mobilesubstrate (>= 0.9.5000), applist (>= 1.5.12), com.rpetrich.rocketbootstrap (>=1.0.5)
+Conflicts: com.crashx.unrestrictor3g
+Filename: ./downloads/20200801/SGOQqFyiZXidR8p8He9rBjQcRRVopoKlFZpK0sbp.deb
+Size: 1791108
+MD5sum: bb1b7d87bdd829ab9425d7f2304bee0c
+SHA1: 5c04fc6cb91146d83519ef5236019dc489c357ce
+SHA256: 78adb56de0a1a2f4ceaf1de9b08469c1e8dad9d69192db30d02811541f85d071
+Section: Alan中文源:插件
+Author: Kim Streich
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: Unrestrictor 破解商店150M下载限制
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.98
+Version: 10.9.5D
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 2224
+Depends: mobilesubstrate
+Filename: ./downloads/20200801/3sQIJeHyAf3EQaT8iVlqa3rHRvPR7RdVmz67a2cF.deb
+Size: 851278
+MD5sum: 65163773e2a564fa9bd475bd0e929058
+SHA1: f3a2c04feb9cbd65e286841e169163ccef52a30f
+SHA256: ea5c5ef59314772ddaddcf2f317a3b7081fcef3858d052c6f58d4e456540faad
+Section: Alan中文源:微信专区
+Author: b
+Icon: file:///Applications/Cydia.app/Sections/Messaging.png
+Name: 桀神的多功能红包插件
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: com.pwndrer4.99
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./downloads/20200801/nUEOP19CrLD4UbMpCO0tjvV4VRW78OQvkMqPQgzn.deb
+Size: 4578
+MD5sum: 70a6487670e54f7144df5eba66e532d4
+SHA1: 77f7737607ec0da3f06987a75b82b4b3eb91c7d0
+SHA256: 1e8dc8d9d4651af972072824c8df9dbf2d028d1659de024a693c364b0949dad4
+Section: Alan中文源:插件
+Author: Ant
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: 阿布睡前故事VIP破解
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: me.apptapp.installer
+Version: 5.0.3-3
+Architecture: iphoneos-arm
+Maintainer: Alan中文源<2648616832@qq.com>
+Depends: firmware (>= 11.0)
+Filename: ./downloads/20200727/UBUX3U25APGgBWGy6Et8h9JApX1foZHMvmmm80Sc.deb
+Size: 24128900
+MD5sum: d9c55323d631f8da23a6823009e2fbce
+SHA1: 9ae4661ea8877c760452af86804b32c8f369560b
+SHA256: 0a83e5d9da1c9d28b561400bbe92684666768112619cbe528eafe4799226aae2
+Section: Alan中文源:包管理器
+Author: AppTapp <support@apptapp.me>
+Icon: file:///Applications/Cydia.app/Sections/Acreson-安装包(Packages).png
+Name: Installer 5「软件包管理器」
+Sponsor: Alan中文源<2648616832@qq.com>
+
+Package: ru.rejail.answeringmachinex
+Version: 1.2-32
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Installed-Size: 2256
+Depends: mobilesubstrate, preferenceloader, net.limneos.libbulletin (>= 0.1-80), firmware (>= 11.0), ru.rejail.limneosos
+Conflicts: net.limneos.audiorecorder (<= 1.7-4)
+Filename: ./downloads/20200726/JmxXDMm45GhZPjbiCU3bYt09p1SIthuCbbtAioHP.deb
+Size: 493996
+MD5sum: f3e6d5b5af64d75310f5dad0ac39df46
+SHA1: 3ee163af5030feb1f8f9a62d62b3adda7e9e8125
+SHA256: 1f4643b548bc37bdb393563ee2669b5d2435881665b89c59aaecb3ef604e2783
+Section: Tweaks
+Description: Тонкая настройка автоответчика
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: https://rejail.ru/depiction.php?file=answeringmachinex
+Icon: file:///Library/PreferenceBundles/AnsweringMachine.bundle/AnsweringMachine@2x.png
+Name: AnsweringMachineXS Rus
+Sileodepiction: https://rejail.ru/sileo/depiction.php?file=answeringmachinex
+
+Package: ru.rejail.limneosos
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Installed-Size: 212
+Depends: mobilesubstrate
+Filename: ./downloads/20200726/c5H0HcUduxd8c5XZz981LfKEF7V1JX9qetOnU1OU.deb
+Size: 23914
+MD5sum: c05187b63fd20b1260221b66ebb9429e
+SHA1: e8803f96b302fef53f9ad0a62efb4634cc3de62a
+SHA256: eccecbc1c5f0bdffad4157514f80268cec2c8ffb67115d1e045cd401eafaf67f
+Section: Tweaks
+Priority: optional
+Description: Название само говорит за себя
+Author: ReJail <rejail@rejail.ru>
+Depiction: https://rejail.ru/depiction.php?file=limneosos
+Name: Limneosos
+Sileodepiction: https://rejail.ru/sileo/depiction.php?file=limneosos
+
+Package: xyz.coolstar.851sszyw100
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Alice源™ <17629241777@163.com>
+Depends: firmware (>= 11.0),mobilesubstrate
+Filename: ./downloads/20200808/IkfGnW8VXimTMiXlHSfRat18XoNdaq47YWMsloCZ.deb
+Size: 74014452
+MD5sum: 8a4d38eee3e3f965141e9cb2441b4536
+SHA1: 630742a32b07086210c1a354334964c8d9226437
+SHA256: d08bc20c77d6f105670b759a7ad1d1b45e48615e2025adae01ba75a311933b93
+Section: 字体
+Author: 字由心雨
+Icon: file:///Applications/Cydia.app/Sections/Fonts.png
+Name: 851手書き雑フォント中英文100%
+Sponsor: Alice源™ <https://apt.coolstar.xyz/>
+
+Package: xyz.coolstar.A-OTFShinMGoPro5zc80
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Alice源™ <17629241777@163.com>
+Depends: firmware (>= 11.0),mobilesubstrate
+Filename: ./downloads/20200808/8BBTCfO8zIfDUIDX3z70y5tDWbYPUTUYrCQd0TFk.deb
+Size: 71169660
+MD5sum: 0ebe1e928eeae3fc301b89c83b293e2f
+SHA1: 2a1413ed7dc166dc5dc395f79a531e3d26c19776
+SHA256: 1d01c7217ec7df35447b840582fa0cf93ef559a862b2f29ce69b36ce105ee7e0
+Section: 字体
+Author: 字由心雨
+Icon: file:///Applications/Cydia.app/Sections/Fonts.png
+Name: A-OTF ShinMGoPro5字重80%
+Sponsor: Alice源™ <https://apt.coolstar.xyz/>
+
+Package: xyz.coolstar.A-OTFShinMGoPro5zc85
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Alice源™ <17629241777@163.com>
+Depends: firmware (>= 11.0),mobilesubstrate
+Filename: ./downloads/20200808/hmxJPHP5QQBm7a9ZVSdwfkrabUa8xDQ2OVrbq0yG.deb
+Size: 69945124
+MD5sum: 55377a436fc40fd569e06a8e993ad1a1
+SHA1: c32ee70453b1a7f8a9396a27e9180eb958c30fb6
+SHA256: 43f071b1a4d4fb8984c8b1d01a6663bb621d7833b074738c21f1cf01f533b107
+Section: 字体
+Author: 字由心雨
+Icon: file:///Applications/Cydia.app/Sections/Fonts.png
+Name: A-OTF ShinMGoPro5字重85%
+Sponsor: Alice源™ <https://apt.coolstar.xyz/>
+
+Package: xyz.coolstar.aldzczyw90
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: Alice源™ <17629241777@163.com>
+Depends: firmware (>= 11.0),mobilesubstrate
+Filename: ./downloads/20200801/cDVGyUclEDXV1yrGYyzvTngAsGWW7jU4Lt2bzeId.deb
+Size: 74612430
+MD5sum: 1b44acca3c7cde2265303f3f7282899b
+SHA1: 68d1ea52f1a66686381a688af8fd74987ad5e309
+SHA256: af19698cf93672d9388f16b6224e0442225848084f4ae951ba6cf401d7688763
+Section: 字体
+Author: 公众号：拾陆字
+Icon: file:///Applications/Cydia.app/Sections/Fonts.png
+Name: 阿篱多字重中英文90%
+Sponsor: Alice源™ <https://apt.coolstar.xyz/>
+
