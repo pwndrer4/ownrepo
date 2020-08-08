@@ -308,10 +308,10 @@ Architecture: iphoneos-arm
 Maintainer: Alan中文源<2648616832@qq.com>
 Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
 Filename: ./downloads/20200808/spAZJc1FnCIDjESKTnzycfHXceM3IzwxOgJ6j5ek.deb
-Size: 1810762
-MD5sum: 189edbd86b44f8765b101efa8a3981f4
-SHA1: 3eb72d849eaf4acc8eb9f40f96f2b5d43f127ed1
-SHA256: 3ead3f567c5d06a455b1c080c18bd40bcb4264d303cd1d9c0d3e9ea10767be62
+Size: 1810760
+MD5sum: 65e68d2df75700bf77c173036340cfd5
+SHA1: 50bde97beb7315eaa6d5988f24200b8e7b2a076e
+SHA256: 6640f91be12b73cad9cb6d399fb04116508166b70f8232e70086be4c767d5bd6
 Section: Alan中文源:破解
 Author: niceios
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
