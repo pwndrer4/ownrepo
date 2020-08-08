@@ -308,10 +308,10 @@ Architecture: iphoneos-arm
 Maintainer: Alan中文源<2648616832@qq.com>
 Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
 Filename: ./downloads/20200808/spAZJc1FnCIDjESKTnzycfHXceM3IzwxOgJ6j5ek.deb
-Size: 1810760
-MD5sum: 65e68d2df75700bf77c173036340cfd5
-SHA1: 50bde97beb7315eaa6d5988f24200b8e7b2a076e
-SHA256: 6640f91be12b73cad9cb6d399fb04116508166b70f8232e70086be4c767d5bd6
+Size: 1810762
+MD5sum: 354987a8d2b3f77daff028fd7cea85cf
+SHA1: e6beed9a555c69576428898075f566f46b05b4ab
+SHA256: 354738c775939006103f383c96a88ef1d78e1fa5aeb325f69937aa2d95216ae5
 Section: Alan中文源:破解
 Author: niceios
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
@@ -358,9 +358,9 @@ Essential: no
 Maintainer: Alan中文源<2648616832@qq.com>
 Filename: ./downloads/20200808/TR3WCkrtPv5nCCezdc7E7NEigCYK9mve48Z0YWPE.deb
 Size: 12817270
-MD5sum: b431ca03617e95cf4c338091d7431d05
-SHA1: 75f139f60f1bfb166762618e2af5cc9f7a316859
-SHA256: 780410b511ab24be1614230895b90580288f0c9aa45c608350927788129852e4
+MD5sum: 0abad6ec985ccaf13643ec2c18b6786c
+SHA1: 68841f0c0a0fbe0d60ad5b88e9183fe7564c200e
+SHA256: cabd5193210246a86b08b3033f778492798eed6071f1ecdaef9de61150c314ba
 Section: Alan中文源:字体资源
 Priority: standard
 Author: 字由心雨
@@ -392,10 +392,10 @@ Maintainer: Alan中文源<2648616832@qq.com>
 Installed-Size: 372
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>=1.6.7)
 Filename: ./downloads/20200808/ZDauNu3qCjkhzva2CwcrQlzxky0WAhpwxgXA3Jg4.deb
-Size: 75238
-MD5sum: 11bd7c7ace148eea6074b3a903f20e41
-SHA1: 9ce6e6be3770e32cb3b9eff4245381dbdd735ae3
-SHA256: a8bff2c42ebffab97bcc8f76f25c09947ea41f8e23a39d20c0f2146e13a07eb3
+Size: 75234
+MD5sum: 5e9a6d655188d396fb40a50be5c1c3a7
+SHA1: 5d9602c762cdfbc8e576480b3a8919bb8e4a1bb4
+SHA256: 8de3fd344b601c0b45e4e19eec35a538068bf8444c8f5272960b14f18792cdd5
 Section: Alan中文源:插件
 Author: Baw Appie
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
@@ -1866,9 +1866,9 @@ Maintainer: Alice源™ <17629241777@163.com>
 Depends: firmware (>= 11.0),mobilesubstrate
 Filename: ./downloads/20200808/IkfGnW8VXimTMiXlHSfRat18XoNdaq47YWMsloCZ.deb
 Size: 74014452
-MD5sum: 8a4d38eee3e3f965141e9cb2441b4536
-SHA1: 630742a32b07086210c1a354334964c8d9226437
-SHA256: d08bc20c77d6f105670b759a7ad1d1b45e48615e2025adae01ba75a311933b93
+MD5sum: e9d2c797576b1c4e76eb32707b54b28b
+SHA1: ce022c58a039d47733e88b46bd6012bc17f379a9
+SHA256: 0ec204c397935059f7413a4898528f6fa78a49212dc59b1a2f60a8af132553b6
 Section: 字体
 Author: 字由心雨
 Icon: file:///Applications/Cydia.app/Sections/Fonts.png
