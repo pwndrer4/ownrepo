@@ -308,10 +308,10 @@ Architecture: iphoneos-arm
 Maintainer: Alan中文源<2648616832@qq.com>
 Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
 Filename: ./downloads/20200808/spAZJc1FnCIDjESKTnzycfHXceM3IzwxOgJ6j5ek.deb
-Size: 1810760
-MD5sum: 36688912723c772eb670bb907958299b
-SHA1: 1fee3ac00f5c2ae8171d6f99fde5726907a7669b
-SHA256: f80ea9968e72f7b91c20aedd1bc41b1bd956f6519bbe115a14f675bf4d28b389
+Size: 1810762
+MD5sum: 189edbd86b44f8765b101efa8a3981f4
+SHA1: 3eb72d849eaf4acc8eb9f40f96f2b5d43f127ed1
+SHA256: 3ead3f567c5d06a455b1c080c18bd40bcb4264d303cd1d9c0d3e9ea10767be62
 Section: Alan中文源:破解
 Author: niceios
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
@@ -326,9 +326,9 @@ Installed-Size: 332
 Depends: applist
 Filename: ./downloads/20200808/dRCOKUbEtUwWSmvXt5tMiI8ItCUCydzbkFnrZaOt.deb
 Size: 130616
-MD5sum: da8f45de6520d8e4bbe1099add1c2711
-SHA1: 466baeddd17b7d7559cc401aad5e6fd91ff05639
-SHA256: da3d8a5c3d07a77fb078dc4e41bfc1fa406f835ff1efff79135e816b82d78e03
+MD5sum: 78f796d99748b18ff4461222b4a6ab41
+SHA1: a57f2165f494a2980173f85a79b7aee1b9469fe7
+SHA256: a3fc51d1a10675088f5956404f4a652250133dc0ed657b0a5baeb705886b9f59
 Section: Alan中文源:插件
 Author: RoyalGraphX
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
